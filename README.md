@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dansholds
 - 👀 I’m interested in Engineering Management
 - 🌱 I’m currently learning mental resiliance!
-- 💞️ I’m looking to collaborate on my GAMWRAP tool!
+- 💞️ I’m looking to collaborate on my GamWrap tool!
 - 📫 How to reach me...through an MR I suppose!
