@@ -2,4 +2,4 @@
 - 👀 I’m interested in Engineering Management
 - 🌱 I’m currently building https://grapplecomps.com!
 - 💞️ I’m looking to collaborate on my GamWrap tool!
-- 📫 How to reach me...through an MR I suppose!
+- 📫 How to reach me...dansh@duck.com
