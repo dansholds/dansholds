@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dansholds
-- 👀 I’m interested in Engineering Management
+- 👀 I’m interested in you!
 - 🌱 I’m currently building https://grapplestuff.com!
-- 💞️ I’m looking to collaborate on my GamWrap tool!
 - 📫 How to reach me: dansh@duck.com
