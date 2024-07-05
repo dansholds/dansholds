@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dansholds
-- 👀 I’m interested in you!
+- 👀 I’m interested in helped graduates and self taught engineers get their first job @ [lillypad](https://lillypadjobs.com)!
 - 🌱 I’m currently becoming a Go God.
-- 📫 How to reach me: dansh@duck.com
+- 📫 How to reach me: dan@roadmap.sh
